@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">自动升级</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 作为配置文件 -->
+    <!-- 存放json文件路径 -->
+    <string name="default_url">http://langrenfengzi.qiniudn.com/json.txt</string>
+    <string name="version_code">versioncode</string>
+    <string name="features">features</string>
+    <string name="apk_url">url</string>
+    <string name="apk_size">length</string>
+</resources>
